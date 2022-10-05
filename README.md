@@ -1,4 +1,4 @@
-<img align="center" height="200" src="https://github.com/Ishaan28malik/Hacktoberfest-2020/blob/master/Assets/Selection_026.png"/>
+<img align="center" height="200" src="https://github.com/Ishaan28malik/Hacktoberfest-2022/blob/master/Assets/Selection_026.png"/>
 
 # Hacktoberfest 2021 - Expert
 
@@ -16,7 +16,7 @@ P.S. Star and share this repository, if you had fun!
 ## Getting Started
 
 - Create a [Github](https://github.com/) account for free [here](https://github.com/).
-- Register at [Hacktoberfest-2021](https://hacktoberfest.digitalocean.com/) using your github id.
+- Register at [Hacktoberfest-2022](https://hacktoberfest.digitalocean.com/) using your github id.
 - Star this repo and share it with your friends.
 - Add your programs/code to respective folders of each programming language.
 
